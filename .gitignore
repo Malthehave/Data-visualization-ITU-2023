@@ -2,3 +2,6 @@ ReleasableAircraft/*
 ReleasableAircraft.zip
 flights.csv
 flight_delays_with_aircraft.csv
+.DS_Store
+delayed_flights.csv
+early_flights.csv
